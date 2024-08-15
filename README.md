@@ -24,12 +24,12 @@
 <img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-## Github statistics
+## Statistics
+<div>
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=lims31&show_icons=true&theme=shadow_red&count_private=true&include_all_commits=true">
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lims31&layout=pie&theme=shadow_red&langs_count=10&size_weight=180">
+</div>
 
 
-
-## Language statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lims31&layout=pie&theme=shadow_red&langs_count=10&)] 
 
 
