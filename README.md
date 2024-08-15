@@ -27,7 +27,7 @@
 ## Statistics
 <div>
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=lims31&show_icons=true&theme=shadow_red&count_private=true&include_all_commits=true">
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lims31&layout=pie&theme=shadow_red&langs_count=10&size_weight=180">
+<img width=220em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lims31&layout=pie&theme=shadow_red&langs_count=10&size_weight=180">
 </div>
 
 
